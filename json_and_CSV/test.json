@@ -1,0 +1,16 @@
+{
+  "player_name": "Cole Palmer",
+  "club": "Chelsea",
+  "position": "Forward",
+  "nationality": "England",
+  "age": 22,
+  "jersey_number": 20,
+  "market_value_in_eur": 90000000,
+  "contract_until": "2033-06-30",
+  "stats": {
+    "goals": 25,
+    "assists": 15,
+    "appearances": 42,
+    "minutes_played": 3200
+  }
+}
